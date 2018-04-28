@@ -4,9 +4,9 @@
 
 `bootstrap-sass` is an Sass-powered version of [Twitter's Bootstrap](http://github.com/twitter/bootstrap), ready to drop right into your Sass powered applications.
 
-`bootstrap-sass-2.3-with-sassc-rails` is a custom version of `bootstrap-sass`, with Bootstrap 2.3 and sassc-rails support.
+`bootstrap-sass-2.3-with-sassc-rails` is a custom version of `bootstrap-sass`, with Bootstrap 2.3 and sassc-rails support enabled.
 
-If you need to use Bootstrap 2.3 in a legacy app but want fast sass rendering with sassc-rails, this gem is for you.
+If you need to support Bootstrap 2.3 in a legacy app but also want super fast sass rendering with sassc-rails, this gem is for you.
 
 Enjoy.
 
