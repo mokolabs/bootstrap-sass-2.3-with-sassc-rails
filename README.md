@@ -6,7 +6,7 @@
 
 `bootstrap-sass-2.3-with-sassc-rails` is a custom version of `bootstrap-sass`, with Bootstrap 2.3 and sassc-rails support enabled.
 
-If you need to support Bootstrap 2.3 in a legacy app but also want super fast sass rendering with sassc-rails, this gem is for you.
+If you need to support Bootstrap 2.3 in a legacy app but also want super fast sass rendering with the new hotness of sassc-rails, this gem is for you.
 
 Enjoy.
 
